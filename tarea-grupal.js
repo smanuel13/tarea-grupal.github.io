@@ -1,1 +1,2 @@
-prompt("Esta es nuestro trabajo grupo","En github");
+Alert("Este es nuestro trabajo en grupo para la entrega 0 en Github");
+
