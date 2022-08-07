@@ -1,5 +1,5 @@
 p {
-    color : palevioletred
+    color : rgb(75, 20, 38)
     text-indent: 30px;
     text-align: justify;
     margin-left: 12em;
@@ -12,5 +12,5 @@ p {
 }
 
 * {
-    background-color: skyblue;
+    background-color: rgb(235, 135, 235);
 }
