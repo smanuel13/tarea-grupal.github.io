@@ -1,5 +1,5 @@
 p {
-    color : palegreen
+    color : palegreen-;
     text-indent: 30px;
     text-align: justify;
     margin-left: 12em;
@@ -12,12 +12,12 @@ p {
 
 
 
-body {
+* {
     background-color: skyblue;
 }
 
 h1 {
-    color : palevioletred
+    color : palevioletred;
     text-indent: 30px;
     text-align: justify;
     margin-left: 12em;
@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color : palegoldenrod
+    color : palegoldenrod;
     text-indent: 30px;
     text-align: justify;
     margin-left: 12em;
